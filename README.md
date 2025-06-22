@@ -1,6 +1,4 @@
-# telecom-data-analysis
-Analysis of the telecom users dataset
-
+# Telecom Users Dataset Analysis
 
 ## 📘 My Report
 
